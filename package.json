@@ -1,0 +1,24 @@
+{
+    "name": "bootearial",
+    "description": "Add Material design to your web application with Bootstrap",
+    "version": "1.0.0",
+    "keywords": [
+        "css",
+        "front-end",
+        "web",
+        "bootstrap",
+        "material"
+    ],
+    "dependencies": {
+        "bootstrap": ">=3.3.7"
+    },
+    "author": "Artem Solovev",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/artem-solovev/booterial.git"
+    },
+    "bugs": {
+        "url": "https://github.com/artem-solovev/booterial/issues"
+    },
+    "homepage": "https://github.com/artem-solovev/booterial"
+}
