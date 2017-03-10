@@ -1,5 +1,5 @@
-<a href="https://david-dm.org/artem-solovev/booterial" target="_blank"></a>
-<a href="https://david-dm.org/artem-solovev/booterial/?type=dev" target="_blank"></a>
+<a href="https://david-dm.org/artem-solovev/booterial" target="_blank"><img src="https://david-dm.org/artem-solovev/booterial.svg" alt="Dependency Status" /></a>
+<a href="https://david-dm.org/artem-solovev/booterial/?type=dev" target="_blank"><img src="https://david-dm.org/artem-solovev/booterial/dev-status.svg" alt="devDependency Status" /></a>
 [![npm](https://img.shields.io/npm/dt/booterial.svg?style=flat-square)]()
 [![npm](https://img.shields.io/npm/v/booterial.svg?style=flat-square)]()
 [![npm](https://img.shields.io/npm/l/booterial.svg?style=flat-square)]()
